@@ -2,8 +2,8 @@
     "protocol_version":  6,
     "build":  "AshAndAether-7b72dbd8a374-testing-ground",
     "world":  "testing-ground",
-    "server":  "https://commerce-beings-telecom-athletics.trycloudflare.com",
-    "online":  true,
-    "updated_utc":  "2026-10-21T10:46:54.0297115Z",
+    "server":  null,
+    "online":  false,
+    "updated_utc":  "2026-10-21T11:44:29.3556336Z",
     "database":  "ash-and-aether-local"
 }

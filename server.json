@@ -1,9 +1,9 @@
 {
-    "online":  true,
-    "server":  "https://sandwich-holdings-wisdom-achievements.trycloudflare.com",
-    "database":  "ash-and-aether-local",
-    "build":  "AshAndAether-a871cbb70e9c-testing-ground",
     "protocol_version":  6,
+    "build":  "AshAndAether-a871cbb70e9c-testing-ground",
     "world":  "testing-ground",
-    "updated_utc":  "2026-10-21T01:12:31.0323852Z"
+    "server":  null,
+    "online":  false,
+    "updated_utc":  "2026-10-21T01:48:23.9030677Z",
+    "database":  "ash-and-aether-local"
 }

@@ -1,9 +1,9 @@
 {
-    "protocol_version":  6,
-    "build":  "AshAndAether-7b72dbd8a374-testing-ground",
+    "protocol_version":  7,
+    "build":  "AshAndAether-b95c7cd4b97d-testing-ground",
     "world":  "testing-ground",
-    "server":  null,
-    "online":  false,
-    "updated_utc":  "2026-10-21T11:44:29.3556336Z",
+    "server":  "https://easter-connecticut-interventions-cute.trycloudflare.com",
+    "online":  true,
+    "updated_utc":  "2026-10-27T11:17:19.1482986Z",
     "database":  "ash-and-aether-local"
 }

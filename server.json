@@ -2,8 +2,8 @@
     "protocol_version":  8,
     "build":  "AshAndAether-9b3d5533547b-playtest",
     "world":  "playtest",
-    "server":  "https://replace-expected-grounds-officers.trycloudflare.com",
-    "online":  true,
-    "updated_utc":  "2026-10-29T09:06:25.7529622Z",
+    "server":  null,
+    "online":  false,
+    "updated_utc":  "2026-10-29T09:07:51.6407545Z",
     "database":  "ash-and-aether-local"
 }

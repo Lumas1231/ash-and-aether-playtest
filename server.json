@@ -1,9 +1,9 @@
 {
-    "protocol_version":  7,
-    "build":  "AshAndAether-b95c7cd4b97d-testing-ground",
-    "world":  "testing-ground",
-    "server":  null,
-    "online":  false,
-    "updated_utc":  "2026-10-27T11:20:30.0672533Z",
+    "protocol_version":  8,
+    "build":  "AshAndAether-9b3d5533547b-playtest",
+    "world":  "playtest",
+    "server":  "https://sur-typically-enforcement-membrane.trycloudflare.com",
+    "online":  true,
+    "updated_utc":  "2026-10-29T09:03:18.6032141Z",
     "database":  "ash-and-aether-local"
 }

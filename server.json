@@ -1,9 +1,9 @@
 {
     "protocol_version":  8,
-    "build":  "AshAndAether-9b3d5533547b-playtest",
+    "build":  "AshAndAether-b67442bf91b6-playtest",
     "world":  "playtest",
-    "server":  null,
-    "online":  false,
-    "updated_utc":  "2026-10-29T09:11:19.0041664Z",
+    "server":  "https://shipment-ralph-recommend-diabetes.trycloudflare.com",
+    "online":  true,
+    "updated_utc":  "2026-10-29T13:31:05.0425115Z",
     "database":  "ash-and-aether-local"
 }

@@ -2,8 +2,8 @@
     "protocol_version":  8,
     "build":  "AshAndAether-b67442bf91b6-playtest",
     "world":  "playtest",
-    "server":  "https://download-billing-ruling-ethnic.trycloudflare.com",
-    "online":  true,
-    "updated_utc":  "2026-10-29T13:34:11.1604081Z",
+    "server":  null,
+    "online":  false,
+    "updated_utc":  "2026-10-29T13:35:37.0343223Z",
     "database":  "ash-and-aether-local"
 }

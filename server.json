@@ -1,9 +1,9 @@
 {
     "protocol_version":  8,
-    "build":  "AshAndAether-b67442bf91b6-playtest",
+    "build":  "AshAndAether-f68bd1241883-playtest",
     "world":  "playtest",
-    "server":  null,
-    "online":  false,
-    "updated_utc":  "2026-10-29T13:37:36.5835685Z",
+    "server":  "https://faq-facilities-downloaded-explaining.trycloudflare.com",
+    "online":  true,
+    "updated_utc":  "2026-10-29T20:34:47.2633510Z",
     "database":  "ash-and-aether-local"
 }

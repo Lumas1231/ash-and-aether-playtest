@@ -2,8 +2,8 @@
     "protocol_version":  8,
     "build":  "AshAndAether-b67442bf91b6-playtest",
     "world":  "playtest",
-    "server":  "https://functionality-allowing-lucky-postage.trycloudflare.com",
-    "online":  true,
-    "updated_utc":  "2026-10-29T13:37:21.5696711Z",
+    "server":  null,
+    "online":  false,
+    "updated_utc":  "2026-10-29T13:37:36.5835685Z",
     "database":  "ash-and-aether-local"
 }

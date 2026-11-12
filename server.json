@@ -2,8 +2,8 @@
     "protocol_version":  15,
     "build":  "AshAndAether-0f53465d70b9-playtest",
     "world":  "playtest",
-    "server":  "https://regarding-modifications-front-means.trycloudflare.com",
-    "online":  true,
-    "updated_utc":  "2026-11-11T20:41:52.0578124Z",
+    "server":  null,
+    "online":  false,
+    "updated_utc":  "2026-11-12T20:05:42.8146084Z",
     "database":  "ash-and-aether-local"
 }
